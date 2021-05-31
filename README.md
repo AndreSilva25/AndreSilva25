@@ -1,7 +1,8 @@
-# Fazer antes (apenas na 1ª vez): Ativar Aplicativos não Seguros.
-  # Gerenciar Conta Google -> Segurança -> Aplicativos não Seguros -> Habilitar
-# Caso mesmo assim dê o erro: smtplib.SMTPAuthenticationError: (534,
-# Você faz o login no seu e-mail e depois entra em: https://accounts.google.com/DisplayUnlockCaptcha
+👋 Olá, sou @ AndreSilva25
+👀 Tenho interesse em aprender mais sobre programação web e apps
+🌱 Atualmente estou aprendendo Python / Ciência de Dados e Sou um Profissional da Área Financeira
+💞️ Estou procurando colaborar em ... 
+nas redes sociais ou mande um email: djandresilva25@gmail.com
 
 <!---
 AndreSilva25/AndreSilva25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
